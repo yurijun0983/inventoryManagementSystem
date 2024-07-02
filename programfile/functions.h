@@ -1,22 +1,23 @@
 #include"definition.h"
 void Initlist(ProLists *p){
     p->len=0;
-}//³õÊ¼»¯Ë³Ðò±í³¤¶È
+}//åˆå§‹åŒ–é¡ºåºè¡¨é•¿åº¦
 void Input(ProLists *p){
 
-}//´Ëº¯ÊýÓÃÓÚÖØÐÂ¶ÁÈëÊý¾Ý
+}//æ­¤å‡½æ•°ç”¨äºŽé‡æ–°è¯»å…¥æ•°æ®
 ProLists ReadFile(){
 
-}//´Ëº¯ÊýÓÃÓÚ¶ÁÈëÎÄ¼þÖÐÊý¾Ý
+}//æ­¤å‡½æ•°ç”¨äºŽè¯»å…¥æ–‡ä»¶ä¸­æ•°æ®
 void WriteFileOne(){
 
-}//´Ëº¯ÊýÓÃÓÚÐ´ÈëÎÄ¼þÊý¾Ý(ÖØÐÂÐ´Èë)
+}//æ­¤å‡½æ•°ç”¨äºŽå†™å…¥æ–‡ä»¶æ•°æ®(é‡æ–°å†™å…¥)
 void WriteFileTwo(){
 
-}//´Ëº¯ÊýÓÃÓÚÐ´ÈëÎÄ¼þÊý¾Ý(×·¼ÓÐ´Èë)//Ë¼¿¼ÊÇ·ñÉ¾³ý
+}//æ­¤å‡½æ•°ç”¨äºŽå†™å…¥æ–‡ä»¶æ•°æ®(è¿½åŠ å†™å…¥)//æ€è€ƒæ˜¯å¦åˆ é™¤
 void InputShortage(){
 
-}//´Ëº¯ÊýÓÃÓÚÈë¿â
+}//æ­¤å‡½æ•°ç”¨äºŽå…¥åº“
 void OutputShortage(){
 
-}//´Ëº¯ÊýÓÃÓÚ³ö¿â
+}//æ­¤å‡½æ•°ç”¨äºŽå‡ºåº“
+//#include<iostream>
