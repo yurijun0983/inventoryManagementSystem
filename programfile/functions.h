@@ -21,3 +21,4 @@ void OutputShortage(){
 
 }//此函数用于出库
 //#include<iostream>
+//ss
