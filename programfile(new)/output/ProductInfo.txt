@@ -1,0 +1,1 @@
+1001	laptop	XPS-13	DELL	8000	50	1002	phone	galaxy-s21	samsung	6000	100	1004	display	ultrasharp	DELL	3000	32	1005	tablet	ipad	apple	7000	20	1006	yuri	jun	vollerel	6000	20	
